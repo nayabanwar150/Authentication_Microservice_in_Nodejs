@@ -1,6 +1,7 @@
-# Node.js jsonwebtoken Example
+# Node.js jsonwebtoken Assignment
 
-> An example of how to protect routes and get a token
+> An assignment of statless authentication microservice in Node.js
+> The Get and POST request has been already compiled and tested with Postman
 
 ## Quick Start
 
@@ -8,6 +9,6 @@
 # Install dependencies
 npm install
 
-# Serve on localhost:3000
+# Serve on localhost:5000
 npm start
 ```
